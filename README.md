@@ -28,7 +28,4 @@ dashboard =< a href="https://github.com/Rajnandini-0804/Mobile_sales_dashboard/b
 🚀 Why This Dashboard Matters?
 
 This dashboard provides actionable insights for businesses to optimize inventory, improve marketing strategies, and enhance customer experiences. With real-time analytics and powerful filters, it’s a valuable dashboard for data-driven decision-making.
-
-📚 Key Learnings & Takeaways:
-
-This project taught me end-to-end dashboard development, from data transformation to advanced analytics. I learned how to make data more insightful, interactive, and business-driven, helping organizations make better decisions.
+ Dashboard preview =<a href="https://github.com/Rajnandini-0804/Mobile_sales_dashboard/blob/main/Screenshot%202025-03-06%20124347.png">Dashboard_preview</a>
